@@ -1,4 +1,2 @@
-Project-Ideas
-=============
+# [List of project-Ideas](https://github.com/deadprogrammers/Project-Ideas/issues)
 
-Discussion place for potential projects
